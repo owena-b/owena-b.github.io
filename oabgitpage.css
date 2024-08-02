@@ -13,3 +13,9 @@ h1 {
 h2 {
     font-family: "Trebuchet MS", monospace, sans-serif;
 }
+
+img {
+    display: inline;
+    position: relative;
+    left: 10%;
+}
