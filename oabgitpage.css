@@ -15,7 +15,7 @@ h2 {
 }
 
 img {
-    display: inline;
+    float: right;
     position: relative;
-    left: 10%;
+    bottom: 60px;
 }
